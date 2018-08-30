@@ -1,0 +1,3 @@
+[submodule "catkin_ws/src/PioneerModel"]
+	path = catkin_ws/src/PioneerModel
+	url = https://github.com/VT-robot-motion-planning-course/PioneerModel.git
