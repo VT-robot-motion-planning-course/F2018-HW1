@@ -30,10 +30,10 @@ Run the Gazebo simulator launch file.
 
 Run the node that controls the speed of the robot (by publishing on the cmd\_vel topic). You can run either the C++ version:
 
-`$ rosrun square_robot square`
+`$ rosrun square_demo square`
 
 or the Python version:
 
-`$ rosrun square_robot square.py`
+`$ rosrun square_demo square.py`
 
 or the MATLAB version by opening and running the square.m file in MATLAB. You'll have to install the MATLAB Robotics Systems Toolbox.
