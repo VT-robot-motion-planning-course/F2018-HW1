@@ -8,6 +8,8 @@ Clone the source code for HW1
 
 `$ git clone https://github.com/VT-robot-motion-planning-course/F2018-HW1.git`
 
+`$ git submodule update --init --recursive`
+
 Change to the catkin_ws
 
 `$ cd catkin_ws`
